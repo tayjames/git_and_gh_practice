@@ -1,0 +1,1 @@
+puts "My fave birthday trip was when I went to San Francisco for my 21st birthday with my best friend. It was like a very eye-opening experience."
